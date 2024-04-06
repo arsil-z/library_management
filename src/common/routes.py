@@ -1,0 +1,4 @@
+from src.library.routes import LIBRARY_ROUTES
+
+
+ASSIGNMENT_ROUTES = LIBRARY_ROUTES
